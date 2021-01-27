@@ -1,0 +1,267 @@
+body {
+    background-image: url('https://tstotopix.files.wordpress.com/2015/05/ddlvalley-rocks_simons-s26e22-720p-hdtv-x264-dimension-mkv_snapshot_07-02_2015-05-18_02-55-12.png');
+    background-size: 100%;
+}
+
+
+.circle {
+    background-color: white;
+    
+    height: 40em;
+    width: 40em;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+
+    /* margin auto applies an even margin on all sides of the element */
+    margin: auto;
+    
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px black;
+}
+
+.neck {
+    background-color: rgb(226, 211, 0);
+    height: 25.5em;
+    width: 14em;
+    position: absolute;
+    top: 5em;
+    left: 0;
+    bottom: 0;
+    right: 4em;
+    margin: auto;
+    border-radius: 5% 5% 15% 15%;
+}
+
+.smile {
+    background-color: rgb(226, 211, 0);
+    height: 20.5em;
+    width: 12em;
+    position: absolute;
+    top: 0.2em;
+    left: 5em;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 5% 5% 15% 0%;
+    border-bottom: 4px solid black;
+}
+
+.head {
+    background-color: rgb(226, 211, 0);
+    height: 20.5em;
+    width: 18em;
+    position: absolute;
+    top: 0.2em;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 5% 5% 15% 15%;
+}
+
+.spike3 {
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-bottom: 75px solid rgb(226, 211, 0);
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 23em;
+    right: 14.8em;
+    margin: auto;
+}
+
+.spike4 {
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-bottom: 75px solid rgb(226, 211, 0);
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 23em;
+    right: 10em;
+    margin: auto;
+}
+
+.spike5 {
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-bottom: 75px solid rgb(226, 211, 0);
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 23em;
+    right: 5em;
+    margin: auto;
+}
+
+.spike6 {
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-bottom: 75px solid rgb(226, 211, 0);
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 23em;
+    right: 0;
+    margin: auto;
+}
+
+.spike7 {
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-bottom: 75px solid rgb(226, 211, 0);
+    position:absolute;
+    top: 0;
+    left: 5em;
+    bottom: 23em;
+    right: 0;
+    margin: auto;
+}
+
+.spike8 {
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-bottom: 75px solid rgb(226, 211, 0);
+    position:absolute;
+    top: 0;
+    left: 10em;
+    bottom: 23em;
+    right: 0;
+    margin: auto;
+}
+
+.spike9 {
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    border-bottom: 75px solid rgb(226, 211, 0);
+    position:absolute;
+    top: 0;
+    left: 14.9em;
+    bottom: 23em;
+    right: 0;
+    margin: auto;
+}
+
+
+.leftEye {
+    background-color: white;
+    
+    height: 7em;
+    width: 7em;
+    
+    position: absolute;
+    top: 0;
+    left: 2em;
+    bottom: 0;
+    right: 0;
+
+    /* margin auto applies an even margin on all sides of the element */
+    margin: auto;
+    
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.rightEye {
+    background-color: white;
+    
+    height: 7em;
+    width: 7em;
+    
+    position: absolute;
+    top: 0;
+    left: 13.5em;
+    bottom: 0;
+    right: 0;
+
+    /* margin auto applies an even margin on all sides of the element */
+    margin: auto;
+    
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.leftEyeBall {
+    background-color: black;
+    
+    height: 1em;
+    width: 1em;
+    
+    position: absolute;
+    top: 0;
+    left: 1em;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.rightEyeBall {
+    background-color: black;
+    
+    height: 1em;
+    width: 1em;
+    
+    position: absolute;
+    top: 0;
+    left: 16em;
+    bottom: 1em;
+    right: 0;
+    margin: auto;
+    
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.nose{
+    background-color: rgb(226, 211, 0);
+    height: 3em;
+    width: 4em;
+    position: absolute;
+    top: 7em;
+    left: 11em;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 0 30% 30% 0;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.lefteyebrow {
+    width: 15px;
+    height: 2px;
+    border-bottom-right-radius:500px;
+    border-bottom-left-radius: 500px;
+    border: 2px solid black;
+    border-top: 0;
+    position: absolute;
+    left: 0;
+    top: 20.7em;
+    bottom: 0;
+    right: 7em;
+    margin: auto;
+    transform: rotate(110deg);
+}

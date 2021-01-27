@@ -1,0 +1,169 @@
+body {
+    background-color: tomato;
+}
+
+.circle {
+    background-color: white;
+    
+    height: 45em;
+    width: 45em;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+
+    /* margin auto applies an even margin on all sides of the element */
+    margin: auto;
+    
+    border-radius: 50%;
+    box-shadow: 5px 5px 50px black;
+}
+
+.topBun {
+    background-color: tan;
+    height: 5.5em;
+    width: 28em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 15em;
+    right: 0;
+    margin: auto;
+    border-radius: 35% 35% 0 0;
+}
+
+.lettuce {
+    background-color: lightgreen;
+    height: 1em;
+    width: 28em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 7em;
+    right: 0;
+    margin: auto;
+}
+
+.cheese {
+    background-color: yellow;
+    height: 1em;
+    width: 28em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 3.5em;
+    right: 0;
+    margin: auto;
+}
+
+.ketchup {
+    background-color: red;
+    height: 1em;
+    width: 28em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+.burger {
+    background-color: rgb(114, 9, 9);
+    height: 2em;
+    width: 28em;
+    position: absolute;
+    top: 4em;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+.bottomBun {
+    background-color: tan;
+    height: 5.5em;
+    width: 28em;
+    position: absolute;
+    top: 13em;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 0 0 35% 35%;
+}
+
+.sesame1 {
+    background-color: white;
+    height: 0.5em;
+    width: 0.5em;
+    position: absolute;
+    top: 0;
+    left: 5em;
+    bottom: 15em;
+    right: 0;
+    margin: auto;
+    border-radius: 0 50% 50% 50%;
+}
+.sesame2 {
+    background-color: white;
+    height: 0.5em;
+    width: 0.5em;
+    position: absolute;
+    top: 0;
+    left: 2em;
+    bottom: 12em;
+    right: 0;
+    margin: auto;
+    border-radius: 0 50% 50% 50%;
+}
+.sesame3 {
+    background-color: white;
+    height: 0.5em;
+    width: 0.5em;
+    position: absolute;
+    top: 0;
+    left: 7em;
+    bottom: 13em;
+    right: 0;
+    margin: auto;
+    border-radius: 0 50% 50% 50%;
+}
+.sesame4 {
+    background-color: white;
+    height: 0.5em;
+    width: 0.5em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 13em;
+    right: 7em;
+    margin: auto;
+    border-radius: 0 50% 50% 50%;
+}
+.sesame5 {
+    background-color: white;
+    height: 0.5em;
+    width: 0.5em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 14em;
+    right: 4em;
+    margin: auto;
+    border-radius: 0 50% 50% 50%;
+}
+.sesame6 {
+    background-color: white;
+    height: 0.5em;
+    width: 0.5em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 12em;
+    right: 2em;
+    margin: auto;
+    border-radius: 0 50% 50% 50%;
+}
